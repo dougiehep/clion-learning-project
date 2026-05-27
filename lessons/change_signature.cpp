@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <cstring>
 
 template <typename Range>
 void print(const Range& r)

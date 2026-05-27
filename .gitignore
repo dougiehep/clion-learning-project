@@ -1,2 +1,9 @@
-.idea
-cmake-build*
+# CLion IDE configuration
+.idea/
+
+# CMake build directories
+cmake-build-*/
+
+# Additional build directories
+build/
+out/
