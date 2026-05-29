@@ -10,6 +10,7 @@ struct Person
     void print() const
     {
         std::cout << lastName << ", " << firstName << " (" << age << ")\n";
+        std::cout << "Trivial change" << std::endl;
     }
 };
 
